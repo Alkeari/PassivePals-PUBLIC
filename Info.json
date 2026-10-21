@@ -1,0 +1,33 @@
+{
+  "ModName": "Passive Pals",
+  "PackageName": "PassivePals",
+  "Version": "1.5.0",
+  "DebugMode": false,
+  "MinRevision": null,
+  "Author": "Alkeari",
+  "Dependencies": [
+    "UE4SSExperimentalPW"
+  ],
+  "Tags": [
+    "UE4SS",
+    "Gameplay",
+    "Pals"
+  ],
+  "InstallRule": [
+    {
+      "Type": "Lua",
+      "Targets": [
+        "./Scripts",
+        "./dlls"
+      ]
+    },
+    {
+      "Type": "Lua",
+      "IsServer": true,
+      "Targets": [
+        "./Scripts",
+        "./dlls"
+      ]
+    }
+  ]
+}

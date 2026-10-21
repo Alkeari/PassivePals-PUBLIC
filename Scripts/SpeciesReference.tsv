@@ -1,0 +1,754 @@
+RowId	DisplayName	AIResponse	ZukanIndex	BPClass
+Alpaca	Melpaca	Escape_to_Battle	20	Alpaca_Normal
+AmaterasuWolf	Kitsun	NotInterested	111	AmaterasuWolf_Normal
+AmaterasuWolf_Dark	Kitsun Noct	NotInterested	111	AmaterasuWolf_Dark
+AmaterasuWolf_Dark_Quest_Enemy	Kitsun Noct (variant)	Kill_All	-1	AmaterasuWolf_Dark_Quest_Enemy
+AmaterasuWolf_Dark_Quest_Friend	Kitsun Noct (variant)	Warlike_WithoutPlayer	-1	AmaterasuWolf_Dark_Quest
+Anubis	Anubis	Warlike	139	Anubis
+ArmorWoodlouse		Warlike	-1	ArmorWoodlouse
+BadCatgirl	Nyafia	Warlike	143	BadCatgirl
+Baphomet	Incineram	Warlike	91	Baphomet
+Baphomet_Dark	Incineram Noct	Warlike	91	Baphomet_Dark
+Baphomet_Dark_Oilrig	Incineram Noct (variant)	Warlike	91	Baphomet_Dark_Oilrig
+Bastet	Mau	Escape_to_Battle	27	Bastet
+Bastet_Ice	Mau Cryst	Escape_to_Battle	27	Bastet_Ice
+BeardedDragon	en_text	Escape	-1	BeardedDragon
+BerryGoat	Caprity	Escape_to_Battle	34	BerryGoat
+BerryGoat_Dark	Caprity Noct	Escape_to_Battle	34	BerryGoat_Dark
+BirdDragon	Vanwyrm	Warlike	64	BirdDragon
+BirdDragon_Ice	Vanwyrm Cryst	Warlike	64	BirdDragon_Ice
+BlackCentaur	Necromus	Warlike	199	BlackCentaur
+BlackFurDragon	Dragostrophe	Warlike	-1	BlackFurDragon
+BlackGriffon	Shadowbeak	Warlike	189	BlackGriffon_Normal
+BlackMetalDragon	Astegon	Warlike	158	BlackMetalDragon
+BlackPuppy	Smokie	Escape_to_Battle	149	BlackPuppy
+BlackPuppy_Ice	Smokie Cryst	Escape_to_Battle	149	BlackPuppy_Ice
+BlueberryFairy	Prunelia	Escape_to_Battle	147	BlueberryFairy
+BlueDragon	Azurobe	Escape_to_Battle	41	BlueDragon
+BlueDragon_Ice	Azurobe Cryst	Escape_to_Battle	41	BlueDragon_Ice
+BluePlatypus	Fuack	Escape_to_Battle	5	BluePlatypus
+BluePlatypus_Fire	Fuack Ignis	Escape_to_Battle	5	BluePlatypus_Fire
+BlueSkyDragon	Shaolong	NotInterested	192	BlueSkyDragon
+BlueThunderHorse	Azurmane	Warlike	161	BlueThunderHorse
+BlueWoolRabbit		Warlike	-1	BlueWoolRabbit
+Boar	Rushoar	Warlike	28	Boar
+BOSS_Alpaca	Melpaca (variant)	NotInterested	-1	Alpaca_BOSS
+BOSS_AmaterasuWolf	Kitsun (variant)	Boss	-1	AmaterasuWolf_BOSS
+BOSS_AmaterasuWolf_Dark	Kitsun Noct (variant)	Boss	-1	AmaterasuWolf_Dark_BOSS
+Boss_Anubis	Anubis (variant)	Boss	-1	Anubis_MiddleBoss
+BOSS_ArmorWoodlouse		Boss	-1	BOSS_ArmorWoodlouse
+BOSS_BadCatgirl	Nyafia (variant)	Boss	-1	BadCatgirl_BOSS
+BOSS_Baphomet	Incineram (variant)	Boss	-1	Baphomet_BOSS
+BOSS_Baphomet_Dark	Incineram Noct (variant)	Boss	-1	Baphomet_Dark_BOSS
+BOSS_Bastet	Mau (variant)	NotInterested	-1	Bastet_BOSS
+BOSS_Bastet_Ice	Mau Cryst (variant)	NotInterested	-1	Bastet_Ice_BOSS2
+BOSS_BeardedDragon	en_text (variant)	Boss	-1	BeardedDragon
+BOSS_BerryGoat	Caprity (variant)	NotInterested	-1	BerryGoat_BOSS
+BOSS_BerryGoat_Dark	Caprity Noct (variant)	Boss	-1	BerryGoat_Dark_BOSS
+BOSS_BirdDragon	Vanwyrm (variant)	Boss	-1	BirdDragon_BOSS
+BOSS_BirdDragon_Ice	Vanwyrm Cryst (variant)	Boss	-1	BirdDragon_Ice_BOSS
+BOSS_BlackCentaur	Necromus (variant)	Boss	-1	BlackCentaur_BOSS
+BOSS_BlackFurDragon	Dragostrophe (variant)	Boss	-1	BlackFurDragon_BOSS
+BOSS_BlackGriffon	Shadowbeak (variant)	Boss	-1	BlackGriffon_BOSS
+BOSS_BlackGriffon_BossRush	Shadowbeak (variant)	Boss	-1	BlackGriffon_BossRush
+BOSS_BlackMetalDragon	Astegon (variant)	Boss	-1	BlackMetalDragon_BOSS
+BOSS_BlackPuppy	Smokie (variant)	Boss	-1	BlackPuppy_BOSS
+BOSS_BlackPuppy_Ice	Smokie Cryst (variant)	Boss	-1	BlackPuppy_Ice_BOSS
+BOSS_BlueberryFairy	Prunelia (variant)	Boss	-1	BlueberryFairy_BOSS
+BOSS_BlueDragon	Azurobe (variant)	Boss	-1	BlueDragon_BOSS
+BOSS_BlueDragon_Ice	Azurobe Cryst (variant)	Boss	-1	BlueDragon_Ice_BOSS
+BOSS_BluePlatypus	Fuack (variant)	NotInterested	-1	BluePlatypus_BOSS
+BOSS_BluePlatypus_Fire	Fuack Ignis (variant)	Boss	-1	BluePlatypus_Fire_BOSS
+BOSS_BlueSkyDragon	Shaolong (variant)	Boss	-1	BlueSkyDragon_BOSS
+BOSS_BlueSkyDragon_BossRush	Shaolong (variant)	Boss	-1	BlueSkyDragon_BossRush
+BOSS_BlueThunderHorse	Azurmane (variant)	Boss	-1	BlueThunderHorse_BOSS
+BOSS_BlueWoolRabbit		Boss	-1	BOSS_BlueWoolRabbit
+BOSS_Boar	Rushoar (variant)	Boss	-1	Boar_BOSS
+BOSS_BrownRabbit	Lapiron (variant)	Boss	-1	BrownRabbit_BOSS
+BOSS_CactusDoll	Needoll (variant)	Boss	-1	CactusDoll_BOSS
+BOSS_CactusDoll_Dark	Needoll Noct (variant)	Boss	-1	CactusDoll_Dark_BOSS
+BOSS_CandleGhost	Sootseer (variant)	Boss	-1	CandleGhost_BOSS
+BOSS_CandleWitch	Unidentified Pal (variant)	Boss	-1	BOSS_CandleWitch
+BOSS_CaptainPenguin	Penking (variant)	Boss	-1	CaptainPenguin_BOSS
+BOSS_CaptainPenguin_Black	Penking Lux (variant)	Boss	-1	CaptainPenguin_Black_BOSS
+BOSS_Carbunclo	Lifmunk (variant)	NotInterested	-1	Carbunclo_BOSS
+BOSS_CatBat	Tombat (variant)	Boss	-1	CatBat_BOSS
+BOSS_CatMage	Katress (variant)	Boss	-1	CatMage_BOSS
+BOSS_CatMage_Fire	Katress Ignis (variant)	Boss	-1	CatMage_Fire_BOSS
+BOSS_CatVampire	Felbat (variant)	Boss	-1	CatVampire_BOSS
+BOSS_ChickenPal	Chikipi (variant)	NotInterested	-1	ChickenPal_BOSS
+BOSS_ClioneTwins	Amione (variant)	Boss	-1	ClioneTwins_BOSS
+BOSS_CloverFairy	Clovee (variant)	Boss	-1	CloverFairy_BOSS
+BOSS_ClownRabbit	Dupin (variant)	Boss	-1	ClownRabbit_BOSS
+BOSS_ColorfulBird	Tocotoco (variant)	Boss	-1	ColorfulBird_BOSS
+BOSS_CowPal	Mozzarina (variant)	NotInterested	-1	CowPal_BOSS
+BOSS_CubeTurtle	Tetroise (variant)	Boss	-1	CubeTurtle_BOSS
+BOSS_CubeTurtle_Neutral	Tetroise Primo (variant)	Boss	-1	CubeTurtle_Neutral_BOSS
+BOSS_CuteButterfly	Cinnamoth (variant)	NotInterested	-1	CuteButterfly_BOSS
+BOSS_CuteFox	Vixy (variant)	NotInterested	-1	CuteFox_BOSS
+BOSS_CuteMole	Fuddler (variant)	NotInterested	-1	CuteMole_BOSS
+BOSS_CuteOrca		Boss	-1	BOSS_CuteOrca
+BOSS_DandelionGirl	Souffline (variant)	Boss	-1	DandelionGirl_BOSS
+BOSS_DarkAlien	Xenovader (variant)	Boss	-1	DarkAlien_BOSS
+BOSS_DarkCrow	Cawgnito (variant)	Boss	-1	DarkCrow_BOSS
+BOSS_DarkFlameFox	Majex (variant)	Boss	-1	DarkFlameFox_BOSS
+BOSS_DarkMechaDragon	Xenolord (variant)	Boss	-1	DarkMechaDragon_BOSS
+BOSS_DarkMutant	en_text (variant)	Boss	-1	DarkMutant_BOSS
+BOSS_DarkScorpion	Menasting (variant)	Boss	-1	DarkScorpion_BOSS
+BOSS_DarkScorpion_Ground	Menasting Terra (variant)	Boss	-1	DarkScorpion_Ground_BOSS
+BOSS_Deer	Eikthyrdeer (variant)	Boss	-1	Deer_BOSS
+BOSS_Deer_Ground	Eikthyrdeer Terra (variant)	Boss	-1	Deer_Ground_BOSS
+BOSS_DomeArmorDragon	Aegidron (variant)	Boss	-1	DomeArmorDragon_BOSS
+BOSS_DreamDemon	Daedream (variant)	NotInterested	-1	DreamDemon_BOSS
+BOSS_DrillGame	Digtoise (variant)	Boss	-1	DrillGame_BOSS
+BOSS_Eagle	Galeclaw (variant)	Boss	-1	Eagle_BOSS
+BOSS_ElecCat	Sparkit (variant)	NotInterested	-1	ElecCat_BOSS
+BOSS_ElecLion	Boltmane (variant)	Boss	-1	ElecLion_BOSS
+BOSS_ElecLizard	Slowatt (variant)	Boss	-1	ElecLizard_BOSS
+BOSS_ElecPanda	Grizzbolt (variant)	Boss	-1	ElecPanda_BOSS
+BOSS_ElecPanda_BossRush	Grizzbolt (variant)	Boss	-1	ElecPanda_BossRush
+BOSS_ElecPomeranian	Puffolt (variant)	Boss	-1	ElecPomeranian_BOSS
+BOSS_ElecSnail	Snock (variant)	Boss	-1	ElecSnail_BOSS
+BOSS_ElecSnail_Fire	Snock (variant)	Boss	-1	ElecSnail_Fire_BOSS
+BOSS_ElecSnail_Ground	Snock Terra (variant)	Boss	-1	ElecSnail_Ground_BOSS
+BOSS_FairyDragon	Elphidran (variant)	Boss	-1	FairyDragon_BOSS
+BOSS_FairyDragon_Water	Elphidran Aqua (variant)	Boss	-1	FairyDragon_Water_BOSS
+BOSS_FeatherOstrich	Dazemu (variant)	Boss	-1	FeatherOstrich_BOSS
+BOSS_FengyunDeeper	Fenglope (variant)	Boss	-1	FengyunDeeper_BOSS
+BOSS_FengyunDeeper_Electric	Fenglope Lux (variant)	Boss	-1	FengyunDeeper_Electric_BOSS
+BOSS_FireKirin	Pyrin (variant)	Boss	-1	FireKirin_BOSS
+BOSS_FireKirin_Dark	Pyrin Noct (variant)	Boss	-1	FireKirin_Dark_BOSS
+BOSS_FlameBambi	Rooby (variant)	NotInterested	-1	FlameBambi_BOSS
+BOSS_FlameBuffalo	Arsox (variant)	Boss	-1	FlameBuffalo_BOSS
+BOSS_FlowerDinosaur	Dinossom (variant)	NotInterested	-1	FlowerDinosaur_BOSS
+BOSS_FlowerDinosaur_Electric	Dinossom Lux (variant)	NotInterested	-1	FlowerDinosaur_Electric_BOSS
+BOSS_FlowerDoll	Petallia (variant)	NotInterested	-1	FlowerDoll_BOSS
+BOSS_FlowerDoll_Fire	Petallia Ignis (variant)	NotInterested	-1	FlowerDoll_Fire_BOSS
+BOSS_FlowerPrince	Dandilord (variant)	Boss	-1	FlowerPrince_BOSS
+BOSS_FlowerRabbit	Flopie (variant)	NotInterested	-1	FlowerRabbit_BOSS
+BOSS_FluffyBird	Muffly (variant)	Boss	-1	FluffyBird_BOSS
+BOSS_FlyingManta	Celaray (variant)	NotInterested	-1	FlyingManta_BOSS
+BOSS_FlyingManta_Thunder	Celaray Lux (variant)	Boss	-1	FlyingManta_Thunder_BOSS
+BOSS_FoxExorcist	Flaracle (variant)	Boss	-1	FoxExorcist_BOSS
+BOSS_FoxMage	Wixen (variant)	Boss	-1	FoxMage_BOSS
+BOSS_FoxMage_Dark	Wixen Noct (variant)	Boss	-1	FoxMage_Dark_BOSS
+BOSS_FrozenBear		Boss	-1	BOSS_FrozenBear
+BOSS_Ganesha	Teafant (variant)	NotInterested	-1	Ganesha_BOSS
+BOSS_Garm	Direhowl (variant)	Boss	-1	Garm_BOSS
+BOSS_GhostAnglerfish	Ghangler (variant)	Boss	-1	GhostAnglerfish_BOSS
+BOSS_GhostAnglerfish_Fire	Ghangler Ignis (variant)	Boss	-1	GhostAnglerfish_Fire_BOSS
+BOSS_GhostBeast	Maraith (variant)	Boss	-1	GhostBeast_BOSS
+BOSS_GhostBlackCat	Wispaw (variant)	Boss	-1	GhostBlackCat_BOSS
+BOSS_GhostDragon	Eidrolon (variant)	Boss	-1	GhostDragon_BOSS
+BOSS_GhostDragon_Fire	Eidrolon Ignis (variant)	Boss	-1	GhostDragon_Fire_BOSS
+BOSS_GhostRabbit	Nitemary (variant)	Boss	-1	GhostRabbit_BOSS
+BOSS_GhostRabbit_Grass	Nitemary Botan (variant)	Boss	-1	GhostRabbit_Grass_BOSS
+BOSS_GoldenHorse	Gildane (variant)	Boss	-1	GoldenHorse_BOSS
+BOSS_Gorilla	Gorirat (variant)	Boss	-1	Gorilla_BOSS
+BOSS_Gorilla_Ground	Gorirat Terra (variant)	Boss	-1	Gorilla_Ground_BOSS
+BOSS_GrassDragon	en_text (variant)	Boss	-1	GrassDragon
+BOSS_GrassGolem	Dualith (variant)	Boss	-1	GrassGolem_BOSS
+BOSS_GrassGolem_Dark	Dualith Noct (variant)	Boss	-1	GrassGolem_Dark_BOSS
+BOSS_GrassMammoth	Mammorest (variant)	NotInterested	-1	GrassMammoth_BOSS
+BOSS_GrassMammoth_Ice	Mammorest Cryst (variant)	NotInterested	-1	GrassMammoth_Ice_BOSS
+BOSS_GrassMinotaur	Elgrove (variant)	Boss	-1	GrassMinotaur_BOSS
+BOSS_GrassMinotaur_Ice	Elgrove Cryst (variant)	Boss	-1	GrassMinotaur_Ice_BOSS
+BOSS_GrassPanda	Mossanda (variant)	Boss	-1	GrassPanda_BOSS
+BOSS_GrassPanda_Electric	Mossanda Lux (variant)	Boss	-1	GrassPanda_Electric_BOSS
+BOSS_GrassRabbitMan	Verdash (variant)	Boss	-1	GrassRabbitMan_Boss
+BOSS_GrimGirl	Splatterina (variant)	Boss	-1	GrimGirl_BOSS
+BOSS_GuardianDog	Yakumo (variant)	Boss	-1	GuardianDog_BOSS
+BOSS_HadesBird	Helzephyr (variant)	Boss	-1	HadesBird_BOSS
+BOSS_HadesBird_Electric	Helzephyr Lux (variant)	Boss	-1	HadesBird_Electric_BOSS
+BOSS_HawkBird	Nitewing (variant)	Boss	-1	HawkBird_BOSS
+BOSS_Hedgehog	Jolthog (variant)	NotInterested	-1	Hedgehog_BOSS
+BOSS_Hedgehog_Ice	Jolthog Cryst (variant)	NotInterested	-1	Hedgehog_Ice_BOSS
+BOSS_HerculesBeetle	Warsect (variant)	Boss	-1	HerculesBeetle_BOSS
+BOSS_HerculesBeetle_Ground	Warsect Terra (variant)	Boss	-1	HerculesBeetle_Ground_BOSS
+BOSS_HoodGhost	Hoodle (variant)	Boss	-1	HoodGhost_BOSS
+BOSS_Horus	Faleris (variant)	Boss	-1	Horus_BOSS
+BOSS_Horus_BossRush	Faleris (variant)	Boss	-1	Horus_BossRush
+BOSS_Horus_Water	Faleris Aqua (variant)	Boss	-1	Horus_Water_BOSS
+BOSS_IceCrocodile	Munchill (variant)	Boss	-1	IceCrocodile_BOSS
+BOSS_IceDeer	Reindrix (variant)	Boss	-1	BOSS_IceDeer
+BOSS_IceFox	Foxcicle (variant)	NotInterested	-1	IceFox_BOSS
+BOSS_IceHorse	Frostallion (variant)	Boss	-1	IceHorse_BOSS
+BOSS_IceHorse_Dark	Frostallion Noct (variant)	Boss	-1	IceHorse_Dark_BOSS
+BOSS_IceNarwhal	Whalaska (variant)	Boss	-1	IceNarwhal_BOSS
+BOSS_IceNarwhal_Fire	Whalaska Ignis (variant)	Boss	-1	IceNarwhal_Fire_BOSS
+BOSS_IceSeal	Polapup (variant)	Boss	-1	IceSeal_BOSS
+BOSS_IceSeal_Ground	Polapup Terra (variant)	Boss	-1	IceSeal_Ground_BOSS
+BOSS_IceVeilDragon		Boss	-1	BOSS_IceVeilDragon
+BOSS_IceWitch	Icelyn (variant)	Boss	-1	IceWitch_BOSS
+BOSS_JellyfishFairy	Jelliette (variant)	Boss	-1	JellyfishFairy_BOSS
+BOSS_JellyfishGhost	Jellroy (variant)	Boss	-1	JellyfishGhost_BOSS
+BOSS_JetDragon	Jetragon (variant)	Boss	-1	JetDragon_BOSS
+BOSS_KabukiMan	Renjishi (variant)	Boss	-1	KabukiMan_BOSS
+BOSS_Kelpie	Kelpsea (variant)	NotInterested	-1	Kelpie_BOSS
+BOSS_Kelpie_Fire	Kelpsea Ignis (variant)	NotInterested	-1	Kelpie_Fire_BOSS
+BOSS_KendoFrog	Croajiro (variant)	Boss	-1	KendoFrog_BOSS
+BOSS_KendoFrog_Dark	Croajiro Noct (variant)	Boss	-1	KendoFrog_Dark_BOSS
+BOSS_KingAlpaca	Kingpaca (variant)	NotInterested	-1	KingAlpaca_BOSS
+BOSS_KingAlpaca_Ice	Kingpaca Cryst (variant)	NotInterested	-1	KingAlpaca_Ice_BOSS
+BOSS_KingBahamut	Blazamut (variant)	Boss	-1	KingBahamut_BOSS
+BOSS_KingBahamut_Dragon	Blazamut Ryu (variant)	Boss	-1	KingBahamut_Dragon_BOSS
+BOSS_KingCrab		Boss	-1	BOSS_KingCrab
+BOSS_KingSunfish	Solmora (variant)	Boss	-1	BOSS_KingSunfish
+BOSS_KingSunfish_Thunder	Solmora Lux (variant)	Boss	-1	KingSunfish_Thunder_BOSS
+BOSS_KingWhale	Panthalus (variant)	Boss	-1	KingWhale_BOSS
+BOSS_KingWhale_otomo	Panthalus (variant)	Boss	-1	KingWhale_BOSS_otomo
+BOSS_Kirin	Univolt (variant)	Boss	-1	Kirin_BOSS
+BOSS_Kirin_Ice	Univolt Cryst (variant)	Boss	-1	Kirin_Ice_BOSS
+BOSS_Kitsunebi	Foxparks (variant)	NotInterested	-1	Kitsunebi_BOSS
+BOSS_Kitsunebi_Ice	Foxparks Cryst (variant)	Boss	-1	Kitsunebi_Ice_BOSS
+BOSS_LanternButler	Loomen (variant)	Boss	-1	LanternButler_BOSS
+BOSS_LavaGirl	Flambelle (variant)	NotInterested	-1	LavaGirl_BOSS
+BOSS_LazyCatfish	Dumud (variant)	NotInterested	-1	LazyCatfish_BOSS
+BOSS_LazyCatfish_Gold	Dumud Gild (variant)	Boss	-1	LazyCatfish_Gold_BOSS
+BOSS_LazyDragon	Relaxaurus (variant)	Boss	-1	LazyDragon_BOSS
+BOSS_LazyDragon_Electric	Relaxaurus Lux (variant)	Boss	-1	LazyDragon_Electric_BOSS
+BOSS_LeafBird		Boss	-1	BOSS_LeafBird
+BOSS_LeafMomonga	Herbil (variant)	Boss	-1	LeafMomonga_BOSS
+BOSS_LeafPrincess	Lullu (variant)	Boss	-1	LeafPrincess_BOSS
+BOSS_LegendDeer	Hartalis (variant)	Boss	-1	LegendDeer_BOSS
+BOSS_LilyQueen	Lyleen (variant)	Boss	-1	LilyQueen_BOSS
+BOSS_LilyQueen_BossRush	Lyleen (variant)	Boss	-1	LilyQueen_BossRush
+BOSS_LilyQueen_Dark	Lyleen Noct (variant)	Boss	-1	LilyQueen_Dark_BOSS
+BOSS_LittleBriarRose	Bristla (variant)	NotInterested	-1	LIttleBriarRose_BOSS
+BOSS_LizardMan	Leezpunk (variant)	Boss	-1	LizardMan_BOSS
+BOSS_LizardMan_Fire	Leezpunk Ignis (variant)	Boss	-1	LizardMan_Fire_BOSS
+BOSS_LongCat	Valentail (variant)	Boss	-1	LongCat_BOSS
+BOSS_LotusDragon	Ophydia (variant)	Boss	-1	LotusDragon_BOSS
+BOSS_Manticore	Blazehowl (variant)	Boss	-1	Manticore_BOSS
+BOSS_Manticore_Dark	Blazehowl Noct (variant)	Boss	-1	Manticore_Dark_BOSS
+BOSS_MedjedBird		Boss	-1	BOSS_MedjedBird
+BOSS_MexicanSalamander		Boss	-1	BOSS_MexicanSalamander
+BOSS_MimicDog	Mimog (variant)	Boss	-1	MimicDog_BOSS
+BOSS_Monkey	Tanzee (variant)	NotInterested	-1	Monkey_BOSS
+BOSS_Monkey_Fire	Tanzee Ignis (variant)	NotInterested	-1	Monkey_Fire_BOSS
+BOSS_Monkey_Ice	Tanzee (variant)	NotInterested	-1	Monkey_Ice_BOSS
+BOSS_MonochromeMushroom		Boss	-1	BOSS_MonochromeMushroom
+BOSS_MonochromeQueen	Solenne (variant)	Boss	-1	MonochromeQueen_BOSS
+BOSS_MoonChild	Wistella (variant)	Boss	-1	MoonChild_BOSS
+BOSS_MoonQueen	Selyne (variant)	Boss	-1	BOSS_MoonQueen
+BOSS_MoonQueen_BossRush	Selyne (variant)	Boss	-1	MoonQueen_BossRush
+BOSS_MopBaby	Swee (variant)	NotInterested	-1	MopBaby_BOSS
+BOSS_MopKing	Sweepa (variant)	NotInterested	-1	BOSS_MopKing
+BOSS_Mothman	Silvance (variant)	Boss	-1	Mothman_BOSS
+BOSS_MummyPal	Gildra (variant)	Boss	-1	MummyPal_BOSS
+BOSS_MushroomDragon	Shroomer (variant)	Boss	-1	MushroomDragon_BOSS
+BOSS_MushroomDragon_Dark	Shroomer Noct (variant)	Boss	-1	MushroomDragon_Dark_BOSS
+BOSS_MushroomLady	Mycora (variant)	Boss	-1	MushroomLady_BOSS
+BOSS_Mutant	Lunaris (variant)	Boss	-1	Mutant_BOSS
+BOSS_MysteryMask	Omascul (variant)	Boss	-1	MysteryMask_BOSS
+BOSS_NaughtyCat	Grintale (variant)	NotInterested	-1	NaughtyCat_BOSS
+BOSS_NegativeKoala	Depresso (variant)	Boss	-1	NegativeKoala_BOSS
+BOSS_NegativeOctopus	Killamari (variant)	NotInterested	-1	NegativeOctopus_BOSS
+BOSS_NegativeOctopus_Neutral	Killamari Primo (variant)	Boss	-1	NegativeOctopus_Neutral_BOSS
+BOSS_NightBlueHorse	Starryon (variant)	Boss	-1	NightBlueHorse_BOSS
+BOSS_NightBlueHorse_Neutral	Starryon Primo (variant)	Boss	-1	NightBlueHorse_Neutral_BOSS
+BOSS_NightFox	Nox (variant)	NotInterested	-1	NightFox_BOSS
+BOSS_NightLady	Bellanoir (variant)	Boss	-1	NightLady_BOSS
+BOSS_NightLady_Dark	Bellanoir Libero (variant)	Boss	-1	NightLady_Dark_BOSS
+BOSS_OctopusGirl	Gloopie (variant)	Boss	-1	OctopusGirl_BOSS
+BOSS_OctopusGirl_Neutral	Gloopie Primo (variant)	Boss	-1	OctopusGirl_Neutral_BOSS
+BOSS_OniGhostGirl	Bakemi (variant)	Boss	-1	OniGhostGirl_BOSS
+BOSS_PandaGirl	Leafan (variant)	Boss	-1	PandaGirl_BOSS
+BOSS_Penguin	Pengullet (variant)	NotInterested	-1	Penguin_BOSS
+BOSS_Penguin_Electric	Pengullet Lux (variant)	Boss	-1	Penguin_Electric_BOSS
+BOSS_PinkCat	Cattiva (variant)	NotInterested	-1	PinkCat_BOSS
+BOSS_PinkKangaroo	en_text (variant)	Boss	-1	BOSS_PinkKangaroo
+BOSS_PinkLizard	Lovander (variant)	Boss	-1	PinkLizard_BOSS
+BOSS_PinkRabbit	Ribbuny (variant)	NotInterested	-1	PinkRabbit_BOSS
+BOSS_PinkRabbit_Grass	Ribbuny Botan (variant)	NotInterested	-1	PinkRabbit_Grass_BOSS
+BOSS_PlantSlime	Gumoss (variant)	NotInterested	-1	PlantSlime_BOSS
+BOSS_PlantSlime_Flower	Gumoss (variant)	NotInterested	-1	PlantSlime_Flower_BOSS
+BOSS_Plesiosaur	Braloha (variant)	Boss	-1	Plesiosaur_BOSS
+BOSS_PoseidonOrca	Neptilius (variant)	Boss	-1	PoseidonOrca_BOSS
+BOSS_PurpleSpider	Tarantriss (variant)	Boss	-1	PurpleSpider_BOSS
+BOSS_QueenBee	Elizabee (variant)	Boss	-1	QueenBee_BOSS
+BOSS_RaijinDaughter	Dazzi (variant)	NotInterested	-1	RaijinDaughter_BOSS
+BOSS_RaijinDaughter_Water	Dazzi Noct (variant)	Boss	-1	RaijinDaughter_Water_BOSS
+BOSS_RedArmorBird	Ragnahawk (variant)	Boss	-1	RedArmorBird_BOSS
+BOSS_RedFlowerBird	Tropicaw (variant)	Boss	-1	RedFlowerBird_BOSS
+BOSS_RobinHood	Robinquill (variant)	Boss	-1	RobinHood_BOSS
+BOSS_RobinHood_Ground	Robinquill Terra (variant)	Boss	-1	RobinHood_Ground_BOSS
+BOSS_RockBeast	Pierdon (variant)	Boss	-1	RockBeast_BOSS
+BOSS_RockBeast_Ice	Pierdon Cryst (variant)	Boss	-1	RockBeast_Ice_BOSS
+BOSS_RockCheetah		Boss	-1	BOSS_RockCheetah
+BOSS_Ronin	Bushi (variant)	Boss	-1	Ronin_Boss
+BOSS_Ronin_Dark	Bushi Noct (variant)	Boss	-1	Ronin_Dark_BOSS
+BOSS_SaintCentaur	Paladius (variant)	Boss	-1	SaintCentaur_BOSS
+BOSS_SakuraSaurus	Broncherry (variant)	NotInterested	-1	SakuraSaurus_BOSS
+BOSS_SakuraSaurus_Water	Broncherry Aqua (variant)	NotInterested	-1	SakuraSaurus_Water_BOSS
+BOSS_SamuraiDog	Pupperai (variant)	Boss	-1	SamuraiDog_BOSS
+BOSS_ScorpionMan	Prixter (variant)	Boss	-1	ScorpionMan_BOSS
+BOSS_ScorpionMan_Electric	Prixter Lux (variant)	Boss	-1	ScorpionMan_Electric_BOSS
+BOSS_Sekhmet	Sekhmet (variant)	Boss	-1	Sekhmet_BOSS
+BOSS_Serpent	Surfent (variant)	NotInterested	-1	Serpent_BOSS
+BOSS_Serpent_Ground	Surfent Terra (variant)	NotInterested	-1	Serpent_Ground_BOSS
+BOSS_SharkKid	Gobfin (variant)	Boss	-1	SharkKid_BOSS
+BOSS_SharkKid_Fire	Gobfin Ignis (variant)	Boss	-1	SharkKid_Fire_BOSS
+BOSS_SheepBall	Lamball (variant)	NotInterested	-1	SheepBall_BOSS
+BOSS_SifuDog	Dogen (variant)	Boss	-1	SifuDog_BOSS
+BOSS_SkyDragon	Quivern (variant)	Boss	-1	SkyDragon_BOSS
+BOSS_SkyDragon_Grass	Quivern Botan (variant)	Boss	-1	SkyDragon_Grass_BOSS
+BOSS_SleeveRabbit	Lapure (variant)	Boss	-1	SleeveRabbit_BOSS
+BOSS_SmallArmadillo	Kikit (variant)	Boss	-1	SmallArmadillo_BOSS
+BOSS_SmallYeti	Snugloo (variant)	Boss	-1	SmallYeti_BOSS
+BOSS_SnakeGirl	Venusa (variant)	Boss	-1	SnakeGirl_BOSS
+BOSS_SnakeQueen		Boss	-1	BOSS_SnakeQueen
+BOSS_SnowPeafowl	Frostplume (variant)	Boss	-1	SnowPeafowl_BOSS
+BOSS_SnowTigerBeastman	Bastigor (variant)	Boss	-1	SnowTigerBeastman_BOSS
+BOSS_SnowTigerBeastman_BossRush	Bastigor (variant)	Boss	-1	SnowTigerBeastman_BossRush
+BOSS_SoldierBee	Beegarde (variant)	Boss	-1	SoldierBee_BOSS
+BOSS_StrawHatCat	Unidentified Pal (variant)	Boss	-1	BOSS_StrawHatCat
+BOSS_StuffedShark	Finsider (variant)	Boss	-1	StuffedShark_BOSS
+BOSS_StuffedShark_Fire	Finsider Ignis (variant)	Boss	-1	StuffedShark_Fire_BOSS
+BOSS_SumoDog	Bulldosu (variant)	Boss	-1	SumoDog_BOSS
+BOSS_Suzaku	Suzaku (variant)	Boss	-1	Suzaku_BOSS
+BOSS_Suzaku_Water	Suzaku Aqua (variant)	Boss	-1	Suzaku_Water_BOSS
+BOSS_SweetsSheep	Woolipop (variant)	NotInterested	-1	SweetsSheep_BOSS
+BOSS_SweetsSheep_Ground	Woolipop Terra (variant)	NotInterested	-1	SweetsSheep_Ground_BOSS
+BOSS_SwordCutlassfish	Skutlass (variant)	Boss	-1	SwordCutlassfish_BOSS
+BOSS_SwordCutlassfish_Fire	Skutlass Ignis (variant)	Boss	-1	SwordCutlassfish_Fire_BOSS
+BOSS_TentacleTurtle	Turtacle (variant)	Boss	-1	TentacleTurtle_BOSS
+BOSS_TentacleTurtle_Ground	Turtacle Terra (variant)	Boss	-1	TentacleTurtle_Ground_BOSS
+BOSS_ThiefBird	Roujay (variant)	Boss	-1	ThiefBird_BOSS
+BOSS_ThunderBird	Beakon (variant)	Boss	-1	ThunderBird_Boss
+BOSS_ThunderBird_Ice	Beakon Cryst (variant)	Boss	-1	ThunderBird_Ice_BOSS
+BOSS_ThunderDog	Rayhound (variant)	Boss	-1	ThunderDog_BOSS
+BOSS_ThunderDog_Ice	Rayhound Cryst (variant)	Boss	-1	ThunderDog_Ice_BOSS
+BOSS_ThunderDragonMan	Orserk (variant)	Boss	-1	ThunderDragonMan_BOSS
+BOSS_ThunderDragonMan_BossRush	Orserk (variant)	Boss	-1	ThunderDragonMan_BossRush
+BOSS_ThunderFluffyBird	Dynamoff (variant)	Boss	-1	ThunderFluffyBird_BOSS
+BOSS_TropicalOstrich	Palumba (variant)	Boss	-1	TropicalOstrich_BOSS
+BOSS_Umihebi	Jormuntide (variant)	Boss	-1	Umihebi_BOSS
+BOSS_Umihebi_Fire	Jormuntide Ignis (variant)	Boss	-1	Umihebi_Fire_BOSS
+BOSS_VenusFlytrap	Carnibora (variant)	Boss	-1	VenusFlytrap_BOSS
+BOSS_VioletFairy	Vaelet (variant)	NotInterested	-1	VioletFairy_BOSS
+BOSS_VolcanicMonster	Reptyro (variant)	Boss	-1	VolcanicMonster_BOSS
+BOSS_VolcanicMonster_Ice	Reptyro Cryst (variant)	Boss	-1	VolcanicMonster_Ice_BOSS
+BOSS_VolcanicTurtle	Unidentified Pal (variant)	Boss	-1	BOSS_VolcanicTurtle
+BOSS_VolcanoDragon	Moldron (variant)	Boss	-1	VolcanoDragon_BOSS
+BOSS_VolcanoDragon_Ice	Moldron Cryst (variant)	Boss	-1	VolcanoDragon_Ice_BOSS
+BOSS_WaterLizard	en_text (variant)	Boss	-1	BOSS_WaterLizard
+BOSS_WeaselDragon	Chillet (variant)	NotInterested	-1	WeaselDragon_BOSS
+BOSS_WeaselDragon_Fire	Chillet Ignis (variant)	NotInterested	-1	WeaselDragon_Fire_BOSS
+BOSS_Werewolf	Loupmoon (variant)	Boss	-1	Werewolf_BOSS
+BOSS_Werewolf_Ice	Loupmoon Cryst (variant)	Boss	-1	Werewolf_Ice_BOSS
+BOSS_WhiteAlienDragon	Xenogard (variant)	Boss	-1	WhiteAlienDragon_BOSS
+BOSS_WhiteDeer	Celesdir (variant)	Boss	-1	WhiteDeer_BOSS
+BOSS_WhiteDeer_Dark	Celesdir Noct (variant)	Boss	-1	WhiteDeer_Dark_BOSS
+BOSS_WhiteMoth	Sibelyx (variant)	Boss	-1	WhiteMoth_BOSS
+BOSS_WhiteMoth_Neutral	Sibelyx Primo (variant)	Boss	-1	WhiteMoth_Neutral_BOSS
+BOSS_WhiteShieldDragon	Silvegis (variant)	Boss	-1	WhiteShieldDragon_BOSS
+BOSS_WhiteTiger	Cryolinx (variant)	Boss	-1	WhiteTiger_BOSS
+BOSS_WhiteTiger_Ground	Cryolinx Terra (variant)	Boss	-1	WhiteTiger_Ground_BOSS
+BOSS_WindChimes	Hangyu (variant)	NotInterested	-1	WindChimes_BOSS
+BOSS_WindChimes_Ice	Hangyu Cryst (variant)	NotInterested	-1	WindChimes_Ice_BOSS
+BOSS_WingGolem	Knocklem (variant)	Boss	-1	WingGolem_BOSS
+BOSS_WingGolem_Fire	Knocklem Ignis (variant)	Boss	-1	WingGolem_Fire_BOSS
+BOSS_WizardOwl	Hoocrates (variant)	NotInterested	-1	WizardOwl_BOSS
+BOSS_WoolFox	Cremis (variant)	NotInterested	-1	WoolFox_BOSS
+BOSS_WorldTreeDragon	Astralym (variant)	Boss	-1	WorldTreeDragon_BOSS
+BOSS_YakushimaBoss001	Eye of Cthulhu (variant)	Boss	-1	YakushimaBoss001_BOSS
+BOSS_Yeti	Wumpo (variant)	Boss	-1	Yeti_BOSS
+BOSS_Yeti_Grass	Wumpo Botan (variant)	Boss	-1	Yeti_Grass_BOSS
+BrownRabbit	Lapiron	Escape_to_Battle	165	BrownRabbit
+CactusDoll	Needoll	Escape_to_Battle	100	CactusDoll
+CactusDoll_Dark	Needoll Noct	Escape_to_Battle	100	CactusDoll_Dark
+CandleGhost	Sootseer	Warlike	135	CandleGhost
+CandleWitch	Unidentified Pal	Warlike	-1	CandleWitch
+CaptainPenguin	Penking	Warlike	18	CaptainPenguin
+CaptainPenguin_Black	Penking Lux	Warlike	18	CaptainPenguin_Black
+Carbunclo	Lifmunk	Escape	4	Carbunclo
+CatBat	Tombat	Warlike	52	CatBat
+CatMage	Katress	NotInterested	79	CatMage
+CatMage_Fire	Katress Ignis	NotInterested	79	CatMage_Fire
+CatVampire	Felbat	Warlike	65	CatVampire
+ChickenPal	Chikipi	Friendly	3	ChickenPal
+ClioneTwins	Amione	Escape_to_Battle	47	ClioneTwins
+CloverFairy	Clovee	Escape_to_Battle	14	CloverFairy
+ClownRabbit	Dupin	NotInterested	176	ClownRabbit
+ColorfulBird	Tocotoco	Warlike_Anyway	53	ColorfulBird
+CowPal	Mozzarina	Escape_to_Battle	40	CowPal
+CubeTurtle	Tetroise	NotInterested	142	CubeTurtle
+CubeTurtle_Neutral	Tetroise Primo	NotInterested	142	CubeTurtle_Neutral
+CuteButterfly	Cinnamoth	Escape_to_Battle	61	CuteButterfly
+CuteFox	Vixy	Escape_to_Battle	6	CuteFox
+CuteMole	Fuddler	Escape_to_Battle	31	CuteMole
+CuteOrca		Warlike	-1	CuteOrca
+DandelionGirl	Souffline	Escape_to_Battle	164	DandelionGirl
+DarkAlien	Xenovader	Warlike	145	DarkAlien
+DarkAlien_Oilrig	Xenovader (variant)	Warlike	145	DarkAlien_Oilrig
+DarkCrow	Cawgnito	NotInterested	57	DarkCrow
+DarkFlameFox	Majex	Warlike	115	DarkFlameFox
+DarkMechaDragon	Xenolord	Warlike	196	DarkMechaDragon
+DarkMutant	en_text	Warlike	-1	DarkMutant
+DarkScorpion	Menasting	Warlike	99	DarkScorpion
+DarkScorpion_Ground	Menasting Terra	Warlike	99	DarkScorpion_Ground
+Deer	Eikthyrdeer	Escape_to_Battle	32	Deer_Normal
+Deer_Ground	Eikthyrdeer Terra	Escape_to_Battle	32	Deer_Ground
+DomeArmorDragon	Aegidron	Warlike	184	DomeArmorDragon
+DreamDemon	Daedream	Friendly	22	DreamDemon
+DrillGame	Digtoise	Warlike	107	DrillGame
+Eagle	Galeclaw	NotInterested	49	Eagle
+ElecCat	Sparkit	Escape_to_Battle	42	ElecCat
+ElecLion	Boltmane	Warlike	-1	ElecLion
+ElecLizard	Slowatt	Escape_to_Battle	167	ElecLizard
+ElecPanda	Grizzbolt	Warlike	185	ElecPanda_Normal
+ElecPomeranian	Puffolt	Warlike	62	ElecPomeranian
+ElecSnail	Snock	Escape_to_Battle	163	ElecSnail
+ElecSnail_Fire	Snock (variant)	Warlike	-1	ElecSnail_Fire
+ElecSnail_Ground	Snock Terra	Escape_to_Battle	163	ElecSnail_Ground
+FairyDragon	Elphidran	Escape_to_Battle	63	FairyDragon
+FairyDragon_Water	Elphidran Aqua	Escape_to_Battle	63	FairyDragon_Water
+FeatherOstrich	Dazemu	Escape_to_Battle	123	FeatherOstrich
+FengyunDeeper	Fenglope	NotInterested	83	FengyunDeeper
+FengyunDeeper_Electric	Fenglope Lux	NotInterested	83	FengyunDeeper_Electric
+FireKirin	Pyrin	NotInterested	93	FireKirin_Normal
+FireKirin_Dark	Pyrin Noct	NotInterested	93	FireKirin_Dark
+FlameBambi	Rooby	Escape_to_Battle	26	FlameBambi
+FlameBuffalo	Arsox	Warlike	58	FlameBuffalo_Normal
+FlowerDinosaur	Dinossom	Friendly	84	FlowerDinosaur
+FlowerDinosaur_Electric	Dinossom Lux	Friendly	84	FlowerDinosaur_Electric
+FlowerDoll	Petallia	Escape_to_Battle	89	FlowerDoll
+FlowerDoll_Fire	Petallia Ignis	Escape_to_Battle	89	FlowerDoll_Fire
+FlowerPrince	Dandilord	Warlike	194	FlowerPrince
+FlowerRabbit	Flopie	Escape_to_Battle	77	FlowerRabbit
+FluffyBird	Muffly	Escape_to_Battle	59	FluffyBird
+FlyingManta	Celaray	Escape_to_Battle	7	FlyingManta
+FlyingManta_Thunder	Celaray Lux	Escape_to_Battle	7	FlyingManta_Thunder
+FoxExorcist	Flaracle	NotInterested	174	FoxExorcist
+FoxMage	Wixen	Escape_to_Battle	78	FoxMage
+FoxMage_Dark	Wixen Noct	NotInterested	78	FoxMage_Dark
+FrozenBear		Warlike	-1	FrozenBear
+Ganesha	Teafant	Escape_to_Battle	11	Ganesha
+Garm	Direhowl	Warlike	33	Garm
+GhostAnglerfish	Ghangler	Warlike	97	GhostAnglerfish
+GhostAnglerfish_Fire	Ghangler Ignis	Warlike	97	GhostAnglerfish_Fire
+GhostBeast	Maraith	Warlike	117	GhostBeast_Normal
+GhostBlackCat	Wispaw	NotInterested	50	GhostBlackCat
+GhostDragon	Eidrolon	NotInterested	171	GhostDragon
+GhostDragon_Fire	Eidrolon Ignis	Warlike	171	GhostDragon_Fire
+GhostRabbit	Nitemary	Escape_to_Battle	148	GhostRabbit
+GhostRabbit_Grass	Nitemary Botan	Escape_to_Battle	148	GhostRabbit_Grass
+GoldenHorse	Gildane	Warlike	154	GoldenHorse
+Gorilla	Gorirat	Warlike	74	Gorilla
+Gorilla_Ground	Gorirat Terra	Warlike	74	Gorilla_Ground
+GrassDragon	en_text	Warlike	-1	GrassDragon
+GrassGolem	Dualith	NotInterested	138	GrassGolem
+GrassGolem_Dark	Dualith Noct	NotInterested	138	GrassGolem_Dark
+GrassMammoth	Mammorest	NotInterested	87	GrassMammoth
+GrassMammoth_Ice	Mammorest Cryst	NotInterested	87	GrassMammoth_Ice
+GrassMinotaur	Elgrove	NotInterested	81	GrassMinotaur
+GrassMinotaur_Ice	Elgrove Cryst	NotInterested	81	GrassMinotaur_Ice
+GrassPanda	Mossanda	Warlike	102	GrassPanda
+GrassPanda_Electric	Mossanda Lux	Warlike	102	GrassPanda_Electric
+GrassPanda_Electric_Tower	Mossanda Lux (variant)	Warlike	102	GrassPanda_Electric
+GrassRabbitMan	Verdash	Warlike	152	GrassRabbitMan
+GrimGirl	Splatterina	Warlike	153	GrimGirl
+GuardianDog	Yakumo	Warlike	127	GuardianDog
+GYM_BlackGriffon	Shadowbeak (variant)	Boss	-2	BlackGriffon_GYM
+GYM_BlackGriffon_2	Shadowbeak (variant)	Boss	-2	BlackGriffon_GYM
+GYM_BlackGriffon_2_Avatar	Shadowbeak (variant)	Boss	-2	BlackGriffon_GYM
+GYM_BlueSkyDragon	Shaolong (variant)	Boss	-1	BlueSkyDragon_GYM
+GYM_BlueSkyDragon_2	Shaolong (variant)	Boss	-1	BlueSkyDragon_GYM
+GYM_ElecPanda	Grizzbolt (variant)	Boss	-2	ElecPanda_Gym
+GYM_ElecPanda_2	Grizzbolt (variant)	Boss	-2	ElecPanda_Gym
+GYM_ElecPanda_Otomo	Grizzbolt (variant)	Warlike	-2	ElecPanda_Gym
+GYM_Horus	Faleris (variant)	Boss	-2	Horus_GYM
+GYM_Horus_2	Faleris (variant)	Boss	-2	Horus_GYM
+GYM_LilyQueen	Lyleen (variant)	Boss	-2	LilyQueen_GYM
+GYM_LilyQueen_2	Lyleen (variant)	Boss	-2	LilyQueen_GYM
+GYM_MoonQueen	Selyne (variant)	Boss	-2	MoonQueen_Gym
+GYM_MoonQueen_2	Selyne (variant)	Boss	-2	MoonQueen_Gym
+GYM_MoonQueen_2_Servant	Selyne (variant)	Boss	-2	MoonQueen
+GYM_SnowTigerBeastman	Bastigor (variant)	Boss	-2	SnowTigerBeastman_GYM
+GYM_SnowTigerBeastman_2	Bastigor (variant)	Boss	-2	SnowTigerBeastman_GYM_Hard
+GYM_ThunderDragonMan	Orserk (variant)	Boss	-2	ThunderDragonMan_GYM
+GYM_ThunderDragonMan_2	Orserk (variant)	Boss	-2	ThunderDragonMan_GYM
+GYM_WorldTreeDragon	Astralym (variant)	Boss	-1	WorldTreeDragon_GYM
+GYM_WorldTreeDragon_2	Astralym (variant)	Boss	-1	WorldTreeDragon_GYM_Hard
+HadesBird	Helzephyr	Warlike	80	HadesBird
+HadesBird_Electric	Helzephyr Lux	Warlike	80	HadesBird_Electric
+HadesBird_Oilrig	Helzephyr (variant)	Warlike	80	HadesBird_Oilrig
+HawkBird	Nitewing	NotInterested	51	HawkBird
+Hedgehog	Jolthog	Escape_to_Battle	15	Hedgehog
+Hedgehog_Ice	Jolthog Cryst	Escape_to_Battle	15	Hedgehog_Ice
+HerculesBeetle	Warsect	Warlike	113	HerculesBeetle
+HerculesBeetle_Ground	Warsect Terra	Warlike	113	HerculesBeetle_Ground
+HoodGhost	Hoodle	Escape_to_Battle	166	HoodGhost
+Horus	Faleris	Warlike	188	Horus
+Horus_Oilrig	Faleris (variant)	Warlike	188	Horus_Oilrig
+Horus_Water	Faleris Aqua	Warlike	188	Horus_Water
+IceCrocodile	Munchill	NotInterested	86	IceCrocodile
+IceDeer	Reindrix	NotInterested	101	IceDeer
+IceFox	Foxcicle	NotInterested	95	IceFox
+IceHorse	Frostallion	Escape_to_Battle	200	IceHorse_Normal
+IceHorse_Dark	Frostallion Noct	Escape_to_Battle	200	IceHorse_Dark
+IceNarwhal	Whalaska	NotInterested	151	IceNarwhal
+IceNarwhal_Fire	Whalaska Ignis	NotInterested	151	IceNarwhal_Fire
+IceSeal	Polapup	Escape_to_Battle	72	IceSeal
+IceSeal_Ground	Polapup Terra	Escape_to_Battle	72	IceSeal_Ground
+IceVeilDragon		Warlike	-1	IceVeilDragon
+IceWitch	Icelyn	Warlike	119	IceWitch
+JellyfishFairy	Jelliette	Escape_to_Battle	45	JellyfishFairy
+JellyfishGhost	Jellroy	Warlike	46	JellyfishGhost
+JetDragon	Jetragon	Warlike	202	JetDragon
+KabukiMan	Renjishi	Warlike	183	KabukiMan
+Kelpie	Kelpsea	NotInterested	43	Kelpie
+Kelpie_Fire	Kelpsea Ignis	NotInterested	43	Kelpie_Fire
+KendoFrog	Croajiro	NotInterested	9	KendoFrog
+KendoFrog_Dark	Croajiro Noct	NotInterested	9	KendoFrog_Dark
+KingAlpaca	Kingpaca	Escape_to_Battle	21	KingAlpaca
+KingAlpaca_Ice	Kingpaca Cryst	Escape_to_Battle	21	KingAlpaca_Ice
+KingBahamut	Blazamut	Warlike	137	KingBahamut
+KingBahamut_Dragon	Blazamut Ryu	Warlike	137	KingBahamut_Dragon
+KingCrab		Warlike	-1	KingCrab
+KingSunfish	Solmora	NotInterested	169	KingSunfish
+KingSunfish_Thunder	Solmora Lux	NotInterested	169	KingSunfish_Thunder
+KingWhale	Panthalus	Warlike	203	KingWhale
+Kirin	Univolt	NotInterested	54	Kirin_Normal
+Kirin_Ice	Univolt Cryst	NotInterested	54	Kirin_Ice
+Kitsunebi	Foxparks	Escape_to_Battle	29	Kitsunebi
+Kitsunebi_Ice	Foxparks Cryst	Escape_to_Battle	29	Kitsunebi_Ice
+LanternButler	Loomen	Warlike	180	LanternButler
+LavaGirl	Flambelle	Escape_to_Battle	25	LavaGirl
+LazyCatfish	Dumud	NotInterested	109	LazyCatfish
+LazyCatfish_Gold	Dumud Gild	NotInterested	109	LazyCatfish_Gold
+LazyDragon	Relaxaurus	Warlike	94	LazyDragon
+LazyDragon_Electric	Relaxaurus Lux	Warlike	94	LazyDragon_Electric
+LazyDragon_Electric_Tower	Relaxaurus Lux (variant)	Warlike	94	LazyDragon_Electric
+LeafBird		Warlike	-1	LeafBird
+LeafMomonga	Herbil	Escape_to_Battle	10	LeafMomonga
+LeafPrincess	Lullu	Escape_to_Battle	125	LeafPrincess
+LegendDeer	Hartalis	Warlike	197	LegendDeer
+LilyQueen	Lyleen	NotInterested	186	LilyQueen
+LilyQueen_Dark	Lyleen Noct	NotInterested	186	LilyQueen_Dark
+LittleBriarRose	Bristla	Escape_to_Battle	60	LIttleBriarRose
+LizardMan	Leezpunk	Warlike	73	LizardMan
+LizardMan_Fire	Leezpunk Ignis	Warlike	73	LizardMan_Fire
+LizardMan_Oilrig	Leezpunk (variant)	Warlike	73	LizardMan_Oilrig
+LongCat	Valentail	NotInterested	162	LongCat
+LotusDragon	Ophydia	NotInterested	175	LotusDragon
+Manticore	Blazehowl	Warlike	112	Manticore
+Manticore_Dark	Blazehowl Noct	Warlike	112	Manticore_Dark
+MedjedBird		Warlike	-1	MedjedBird
+MexicanSalamander		Warlike	-1	MexicanSalamander
+MimicDog	Mimog	Escape	144	MimicDog
+Monkey	Tanzee	Escape_to_Battle	23	Monkey
+Monkey_Fire	Tanzee Ignis	Escape_to_Battle	23	Monkey_Fire
+Monkey_Ice	Tanzee (variant)	Escape_to_Battle	-1	Monkey_Ice
+MonochromeMushroom		Warlike	-1	MonochromeMushroom
+MonochromeQueen	Solenne	NotInterested	182	MonochromeQueen
+MoonChild	Wistella	Escape_to_Battle	181	MoonChild
+MoonQueen	Selyne	Warlike	190	MoonQueen
+MopBaby	Swee	Escape_to_Battle	35	MopBaby
+MopKing	Sweepa	Escape_to_Battle	36	MopKing
+Mothman	Silvance	Warlike	193	Mothman
+MummyPal	Gildra	Warlike	120	MummyPal
+MushroomDragon	Shroomer	Escape_to_Battle	118	MushroomDragon
+MushroomDragon_Dark	Shroomer Noct	Warlike	118	MushroomDragon_Dark
+MushroomLady	Mycora	NotInterested	179	MushroomLady
+Mutant	Lunaris	NotInterested	82	Mutant
+MysteryMask	Omascul	NotInterested	150	MysteryMask
+NaughtyCat	Grintale	Friendly	70	NaughtyCat
+NegativeKoala	Depresso	Warlike	16	NegativeKoala
+NegativeOctopus	Killamari	NotInterested	30	NegativeOctopus
+NegativeOctopus_Neutral	Killamari Primo	NotInterested	30	NegativeOctopus_Neutral
+NightBlueHorse	Starryon	Warlike	130	NightBlueHorse
+NightBlueHorse_Neutral	Starryon Primo	Warlike	130	NightBlueHorse_Neutral
+NightFox	Nox	Escape_to_Battle	24	NightFox
+NightLady	Bellanoir	Warlike	195	NightLady
+NightLady_Dark	Bellanoir Libero	Warlike	195	NightLady_Dark
+OctopusGirl	Gloopie	Escape_to_Battle	48	OctopusGirl
+OctopusGirl_Neutral	Gloopie Primo	Escape_to_Battle	48	OctopusGirl_Neutral
+OniGhostGirl	Bakemi	Escape_to_Battle	168	OniGhostGirl
+PandaGirl	Leafan	NotInterested	90	PandaGirl
+Penguin	Pengullet	Escape_to_Battle	17	Penguin
+Penguin_Electric	Pengullet Lux	Escape_to_Battle	17	Penguin_Electric
+PinkCat	Cattiva	Escape_to_Battle	2	PinkCat
+PinkKangaroo	en_text	Escape_to_Battle	-1	PinkKangaroo
+PinkLizard	Lovander	Warlike	69	PinkLizard
+PinkRabbit	Ribbuny	Escape_to_Battle	44	PinkRabbit
+PinkRabbit_Grass	Ribbuny Botan	Escape_to_Battle	44	PinkRabbit_Grass
+PlantSlime	Gumoss	Escape_to_Battle	12	PlantSlime
+PlantSlime_Flower	Gumoss (variant)	Escape_to_Battle	12	PlantSlime_Flower
+Plesiosaur	Braloha	NotInterested	110	Plesiosaur
+POLICE_HawkBird		NotInterested	-1	HawkBird_Police
+POLICE_ThunderDog		Warlike	-1	ThunderDog_Police
+PoseidonOrca	Neptilius	Warlike	201	PoseidonOrca
+PREDATOR_AmaterasuWolf	Kitsun (variant)	Boss	-1	AmaterasuWolf_BOSS_Predator
+PREDATOR_Baphomet_Dark	Incineram Noct (variant)	Boss	-1	Baphomet_Dark_BOSS_Predator
+PREDATOR_BirdDragon	Vanwyrm (variant)	Boss	-1	BirdDragon_BOSS_Predator
+PREDATOR_CandleGhost	Sootseer (variant)	Boss	-1	CandleGhost_BOSS_Predator
+PREDATOR_DarkScorpion	Menasting (variant)	Boss	-1	DarkScorpion_BOSS_Predator
+PREDATOR_DrillGame	Digtoise (variant)	Boss	-1	DrillGame_BOSS_Predator
+PREDATOR_FairyDragon	Elphidran (variant)	Boss	-1	FairyDragon_BOSS_Predator
+PREDATOR_FeatherOstrich	Dazemu (variant)	Boss	-1	FeatherOstrich_BOSS_Predator
+PREDATOR_FlowerDinosaur	Dinossom (variant)	Boss	-1	FlowerDinosaur_BOSS_Predator
+PREDATOR_FlowerRabbit_Quest	Flopie (variant)	Boss	-1	FlowerRabbit_Predator_Quest
+PREDATOR_Garm	Direhowl (variant)	Boss	-1	Garm_BOSS_Predator
+PREDATOR_Garm_Quest	Direhowl (variant)	Boss	-1	Garm_BOSS_Predator_Quest
+PREDATOR_GhostBeast	Maraith (variant)	Boss	-1	GhostBeast_BOSS_Predator
+PREDATOR_GoldenHorse	Gildane (variant)	Boss	-1	GoldenHorse_BOSS_Predator
+PREDATOR_Gorilla	Gorirat (variant)	Boss	-1	Gorilla_BOSS_Predator
+PREDATOR_GrassMammoth_Ice	Mammorest Cryst (variant)	Boss	-1	GrassMammoth_Ice_BOSS_Predator
+PREDATOR_GrassMinotaur_Ice	Elgrove Cryst (variant)	Boss	-1	GrassMinotaur_Ice_BOSS_Predator
+PREDATOR_GrassPanda	Mossanda (variant)	Boss	-1	GrassPanda_BOSS_Predator
+PREDATOR_GrimGirl	Splatterina (variant)	Boss	-1	GrimGirl_BOSS_Predator
+PREDATOR_HadesBird_Electric	Helzephyr Lux (variant)	Boss	-1	HadesBird_Electric_BOSS_Predator
+PREDATOR_Horus_Water	Faleris Aqua (variant)	Boss	-1	Horus_Water_BOSS_Predator
+PREDATOR_LazyDragon	Relaxaurus (variant)	Boss	-1	LazyDragon_BOSS_Predator
+PREDATOR_Manticore_Dark	Blazehowl Noct (variant)	Boss	-1	Manticore_Dark_BOSS_Predator
+PREDATOR_MonochromeQueen	Solenne (variant)	Boss	-1	MonochromeQueen_BOSS_Predator
+PREDATOR_MummyPal	Gildra (variant)	Boss	-1	MummyPal_BOSS_Predator
+PREDATOR_MushroomDragon	Shroomer (variant)	Boss	-1	MushroomDragon_BOSS_Predator
+PREDATOR_MysteryMask	Omascul (variant)	Boss	-1	MysteryMask_BOSS_Predator
+PREDATOR_NightBlueHorse	Starryon (variant)	Boss	-1	NightBlueHorse_BOSS_Predator
+PREDATOR_PandaGirl	Leafan (variant)	Boss	-1	PandaGirl_BOSS_Predator
+PREDATOR_PinkLizard	Lovander (variant)	Boss	-1	PinkLizard_BOSS_Predator
+PREDATOR_PinkLizard_Quest	Lovander (variant)	Boss	-1	PinkLizard_BOSS_Predator_Quest
+PREDATOR_PurpleSpider	Tarantriss (variant)	Boss	-1	PurpleSpider_BOSS_Predator
+PREDATOR_RedArmorBird	Ragnahawk (variant)	Boss	-1	RedArmorBird_BOSS_Predator
+PREDATOR_RedFlowerBird	Tropicaw (variant)	Boss	-1	RedFlowerBird_BOSS_Predator
+PREDATOR_Ronin_Dark	Bushi Noct (variant)	Boss	-1	Ronin_Dark_BOSS_Predator
+PREDATOR_ScorpionMan	Prixter (variant)	Boss	-1	ScorpionMan_BOSS_Predator
+PREDATOR_SifuDog	Dogen (variant)	Boss	-1	SifuDog_BOSS_Predator
+PREDATOR_SnakeGirl	Venusa (variant)	Boss	-1	SnakeGirl_BOSS_Predator
+PREDATOR_Suzaku	Suzaku (variant)	Boss	-1	Suzaku_BOSS_Predator
+PREDATOR_ThunderDog	Rayhound (variant)	Boss	-1	ThunderDog_BOSS_Predator
+PREDATOR_Umihebi_Fire	Jormuntide Ignis (variant)	Boss	-1	Umihebi_Fire_BOSS_Predator
+PREDATOR_Umihebi_Fire_Quest	Jormuntide Ignis (variant)	Boss	-1	Umihebi_Fire_BOSS_Predator_Quest
+PREDATOR_VolcanicMonster_Ice	Reptyro Cryst (variant)	Boss	-1	VolcanicMonster_Ice_BOSS_Predator
+PREDATOR_VolcanoDragon	Moldron (variant)	Boss	-1	VolcanoDragon_BOSS_Predator
+PREDATOR_Werewolf_Ice	Loupmoon Cryst (variant)	Boss	-1	PREDATOR_Werewolf_Ice
+PREDATOR_WhiteShieldDragon_Quest	Silvegis (variant)	Boss	-1	WhiteShieldDragon_BOSS_Predator_Quest
+PREDATOR_WhiteTiger_Ground	Cryolinx Terra (variant)	Boss	-1	WhiteTiger_Ground_BOSS_Predator
+PREDATOR_Yeti	Wumpo (variant)	Boss	-1	Yeti_BOSS_Predator
+PurpleSpider	Tarantriss	NotInterested	71	PurpleSpider
+QueenBee	Elizabee	Warlike	68	QueenBee
+Quest_Farmer03_PinkCat		Warlike	2	PinkCat
+Quest_Farmer03_SheepBall		Warlike	1	SheepBall
+RAID_DarkMechaDragon	Xenolord (variant)	Boss	-1	DarkMechaDragon_RAID
+RAID_DarkMechaDragon_2	Xenolord (variant)	Boss	-1	DarkMechaDragon_RAID
+RAID_KingBahamut_Dragon	Blazamut Ryu (variant)	Boss	-1	KingBahamut_Dragon_RAID
+RAID_KingBahamut_Dragon_2	Blazamut Ryu (variant)	Boss	-1	KingBahamut_Dragon_RAID
+RAID_LegendDeer	Hartalis (variant)	Boss	-1	LegendDeer_RAID
+RAID_LegendDeer_2	Hartalis (variant)	Boss	-1	LegendDeer_RAID
+RAID_NightLady	Bellanoir (variant)	Boss	-1	NightLady_RAID
+RAID_NightLady_Dark	Bellanoir Libero (variant)	Boss	-1	NightLady_Dark_RAID
+RAID_NightLady_Dark_2	Bellanoir Libero (variant)	Boss	-1	NightLady_Dark_RAID
+RAID_YakushimaBoss001_Green	True Eye of Cthulhu	Boss	-1	YakushimaBoss001_Green
+RAID_YakushimaBoss001_Green_2	True Eye of Cthulhu (variant)	Boss	-1	YakushimaBoss001_Green_2
+RAID_YakushimaBoss002	Moon Lord	Boss	-1	YakushimaBoss002_B
+RAID_YakushimaBoss002_2	Moon Lord (variant)	Boss	-1	YakushimaBoss002_B_2
+RAID_YakushimaBoss002_Hand_Left	Moon Lord (variant)	Boss	-1	YakushimaBoss002_L
+RAID_YakushimaBoss002_Hand_Left_2	Moon Lord (variant)	Boss	-1	YakushimaBoss002_L_2
+RAID_YakushimaBoss002_Hand_Right	Moon Lord (variant)	Boss	-1	YakushimaBoss002_R
+RAID_YakushimaBoss002_Hand_Right_2	Moon Lord (variant)	Boss	-1	YakushimaBoss002_R_2
+RAID_YakushimaBoss002_Head	Moon Lord (variant)	Boss	-1	YakushimaBoss002_Head
+RAID_YakushimaBoss002_Head_2	Moon Lord (variant)	Boss	-1	YakushimaBoss002_Head_2
+RaijinDaughter	Dazzi	Escape_to_Battle	92	RaijinDaughter
+RaijinDaughter_Water	Dazzi Noct	Escape_to_Battle	92	RaijinDaughter_Water
+RedArmorBird	Ragnahawk	Warlike	104	RedArmorBird
+RedFlowerBird	Tropicaw	Warlike	173	RedFlowerBird
+RobinHood	Robinquill	Warlike	76	RobinHood
+RobinHood_Ground	Robinquill Terra	Warlike	76	RobinHood_Ground
+RockBeast	Pierdon	Warlike	131	RockBeast
+RockBeast_Ice	Pierdon Cryst	Warlike	131	RockBeast_Ice
+RockCheetah		Warlike	-1	RockCheetah
+Ronin	Bushi	Warlike	85	Ronin
+Ronin_Dark	Bushi Noct	Warlike	85	Ronin_Dark
+SaintCentaur	Paladius	Warlike	198	SaintCentaur
+SakuraSaurus	Broncherry	NotInterested	108	SakuraSaurus
+SakuraSaurus_Water	Broncherry Aqua	NotInterested	108	SakuraSaurus_Water
+SamuraiDog	Pupperai	Escape_to_Battle	13	SamuraiDog
+ScorpionMan	Prixter	Warlike	141	ScorpionMan
+ScorpionMan_Electric	Prixter Lux	Warlike	141	ScorpionMan_Electric
+Sekhmet	Sekhmet	NotInterested	140	Sekhmet
+Serpent	Surfent	Warlike	75	Serpent
+Serpent_Ground	Surfent Terra	Warlike	75	Serpent_Ground
+SharkKid	Gobfin	Warlike	55	SharkKid
+SharkKid_Fire	Gobfin Ignis	Warlike	55	SharkKid_Fire
+SheepBall	Lamball	Friendly	1	SheepBall
+SifuDog	Dogen	NotInterested	155	SifuDog
+SkyDragon	Quivern	NotInterested	124	SkyDragon
+SkyDragon_Grass	Quivern Botan	NotInterested	124	SkyDragon_Grass
+SleeveRabbit	Lapure	NotInterested	170	SleeveRabbit
+SmallArmadillo	Kikit	Escape_to_Battle	126	SmallArmadillo
+SmallYeti	Snugloo	Escape_to_Battle	133	SmallYeti
+SnakeGirl	Venusa	Escape_to_Battle	178	SnakeGirl
+SnakeQueen		Warlike	-1	SnakeQueen
+SnowPeafowl	Frostplume	Warlike	114	SnowPeafowl
+SnowTigerBeastman	Bastigor	Warlike	191	SnowTigerBeastman
+SoldierBee	Beegarde	Warlike	67	SoldierBee
+StrawHatCat	Unidentified Pal	Warlike	-1	StrawHatCat
+StuffedShark	Finsider	Warlike	88	StuffedShark
+StuffedShark_Fire	Finsider Ignis	Warlike	88	StuffedShark_Fire
+SUMMON_DarkAlien	Xenovader (variant)	Warlike	145	DarkAlien_Summon
+SUMMON_DarkAlien_MAX	Xenovader (variant)	Warlike	145	DarkAlien_Summon
+SUMMON_WhiteAlienDragon	Xenogard (variant)	Warlike	146	WhiteAlienDragon_Summon
+SUMMON_WhiteAlienDragon_MAX	Xenogard (variant)	Warlike	146	WhiteAlienDragon_Summon
+SumoDog	Bulldosu	NotInterested	156	SumoDog
+Suzaku	Suzaku	Warlike	122	Suzaku
+Suzaku_Water	Suzaku Aqua	Warlike	122	Suzaku_Water
+SweetsSheep	Woolipop	Escape_to_Battle	39	SweetsSheep
+SweetsSheep_Ground	Woolipop Terra	Escape_to_Battle	39	SweetsSheep_Ground
+SwordCutlassfish	Skutlass	Warlike	128	SwordCutlassfish
+SwordCutlassfish_Fire	Skutlass Ignis	Warlike	128	SwordCutlassfish_Fire
+TentacleTurtle	Turtacle	Warlike	37	TentacleTurtle
+TentacleTurtle_Ground	Turtacle Terra	Warlike	37	TentacleTurtle_Ground
+ThiefBird	Roujay	NotInterested	177	ThiefBird
+ThunderBird	Beakon	Warlike	96	ThunderBird
+ThunderBird_Ice	Beakon Cryst	Warlike	96	ThunderBird_Ice
+ThunderDog	Rayhound	Warlike	98	ThunderDog
+ThunderDog_Ice	Rayhound Cryst	Warlike	98	ThunderDog_Ice
+ThunderDragonMan	Orserk	Warlike	187	ThunderDragonMan
+ThunderFluffyBird	Dynamoff	NotInterested	172	ThunderFluffyBird
+TropicalOstrich	Palumba	Warlike	106	TropicalOstrich
+Umihebi	Jormuntide	Warlike	121	Umihebi
+Umihebi_Fire	Jormuntide Ignis	Warlike	121	Umihebi_Fire
+VenusFlytrap	Carnibora	Warlike	136	VenusFlytrap
+VioletFairy	Vaelet	Warlike	66	VioletFairy
+VolcanicMonster	Reptyro	NotInterested	129	VolcanicMonster
+VolcanicMonster_Ice	Reptyro Cryst	NotInterested	129	VolcanicMonster_Ice
+VolcanicTurtle	Unidentified Pal	Warlike	-1	VolcanicTurtle
+VolcanoDragon	Moldron	Warlike	105	VolcanoDragon
+VolcanoDragon_Ice	Moldron Cryst	Warlike	105	VolcanoDragon_Ice
+WaterLizard	en_text	Warlike	-1	WaterLizard
+WeaselDragon	Chillet	Escape_to_Battle	103	WeaselDragon
+WeaselDragon_Fire	Chillet Ignis	Escape_to_Battle	103	WeaselDragon_Fire
+Werewolf	Loupmoon	Warlike	56	Werewolf
+Werewolf_Ice	Loupmoon Cryst	Warlike	56	Werewolf_Ice
+WhiteAlienDragon	Xenogard	Warlike	146	WhiteAlienDragon
+WhiteDeer	Celesdir	NotInterested	157	WhiteDeer
+WhiteDeer_Dark	Celesdir Noct	NotInterested	157	WhiteDeer_Dark
+WhiteMoth	Sibelyx	Escape_to_Battle	116	WhiteMoth
+WhiteMoth_Neutral	Sibelyx Primo	Escape_to_Battle	116	WhiteMoth_Neutral
+WhiteShieldDragon	Silvegis	Warlike	160	WhiteShieldDragon
+WhiteTiger	Cryolinx	Warlike	132	WhiteTiger
+WhiteTiger_Ground	Cryolinx Terra	Warlike	132	WhiteTiger_Ground
+WindChimes	Hangyu	Escape_to_Battle	38	WindChimes
+WindChimes_Ice	Hangyu Cryst	Escape_to_Battle	38	WindChimes_Ice
+WingGolem	Knocklem	Warlike	159	WingGolem
+WingGolem_Fire	Knocklem Ignis	Warlike	159	WingGolem_Fire
+WingGolem_Oilrig	Knocklem (variant)	Warlike	159	WingGolem_Oilrig
+WizardOwl	Hoocrates	NotInterested	19	WizardOwl
+WoolFox	Cremis	Escape_to_Battle	8	WoolFox
+WorldTreeDragon	Astralym	NotInterested	204	WorldTreeDragon
+YakushimaBoss001	Eye of Cthulhu	Warlike	-1	YakushimaBoss001
+YakushimaBoss001_Small	Demon Eye	Warlike	-1	YakushimaBoss001_Small
+YakushimaMonster001	Green Slime	Warlike	-1	YakushimaMonster001_Green_Normal
+YakushimaMonster001_Blue	Blue Slime	Warlike	-1	YakushimaMonster001_Blue_Normal
+YakushimaMonster001_Pink	Illuminant Slime	Warlike	-1	YakushimaMonster001_Pink_Normal
+YakushimaMonster001_Purple	Purple Slime	Warlike	-1	YakushimaMonster001_Purple_Normal
+YakushimaMonster001_Rainbow	Rainbow Slime	Warlike	-1	YakushimaMonster001_Rainbow_Normal
+YakushimaMonster001_Red	Red Slime	Warlike	-1	YakushimaMonster001_Red_Normal
+YakushimaMonster002	Enchanted Sword	Warlike	-1	YakushimaMonster002
+YakushimaMonster003	Cave Bat	Warlike	-1	YakushimaMonster003
+YakushimaMonster003_Purple	Illuminant Bat	Warlike	-1	YakushimaMonster003_Purple
+Yeti	Wumpo	NotInterested	134	Yeti
+Yeti_Grass	Wumpo Botan	NotInterested	134	Yeti_Grass

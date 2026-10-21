@@ -1,0 +1,29 @@
+# Release output (tools\deploy.ps1 -Release)
+out/
+
+# IDE and local machine state
+.idea/
+.vs/
+.vscode/
+
+# Support folders (never built or committed)
+/.REFERENCE/
+/.Assets/
+
+# UE4SS runtime output, if a test install is symlinked in
+UE4SS.log
+*.dmp
+
+# Uploader metadata never lives in the repo; it stays in the Workshop item folder
+.workshop.json
+
+# Python bytecode from publish/listing.py
+__pycache__/
+
+# Built update check (tools\deploy.ps1 stages it beside Info.json)
+dlls/
+tests/UpdateCheck/*.exe
+
+# RE-UE4SS toolchain output when it builds Source\ through the junction
+.xmake/
+Intermediates/
